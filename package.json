@@ -3,6 +3,7 @@
 	"author": "Yoke",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "node", "express", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
