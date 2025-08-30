@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yoke",
   "description": "A project that does something awesome",
-	"dependencies": {
+	"keywords": [ "descriptive", "related", "words" ]
+    "dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
